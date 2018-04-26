@@ -1,0 +1,14 @@
+! Rain of Lead
+! Item list: accessories
+! http://rol.com majd ha lesz ilyen :P
+#:
+Name:"Emerald Ring"
+HP: +20
+DMG: +5
+#/
+#:
+Name:"Ring of the Burning Hearth"
+HP: +10
+MP: +15
+DMG: +25
+#/

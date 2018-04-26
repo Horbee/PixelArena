@@ -1,0 +1,26 @@
+! Rain of Lead
+! Item list: weapons
+! http://rol.com majd ha lesz ilyen :P
+Name:Emerald Staff
+SpriteID: 0
+Ptype: GreenProjectile
+DMG: 20 25
+Mana: 40
+FR: 15
+#/
+Name:Firepower
+SpriteID: 2
+Ptype: FireProjectile
+HP: 5
+FR: 10
+DMG: 25 30
+#/
+Name:Emerald Bow
+Ptype: ArrowProjectile
+SpriteID: 3
+FR: 10
+DMG: 30 35
+#/
+Name:Minor Mana
+SpriteID: 6
+#/
